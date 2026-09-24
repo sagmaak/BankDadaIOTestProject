@@ -4,20 +4,9 @@
   <record name="record" javaclass="com.wm.util.Values">
     <value name="node_type">record</value>
     <value name="node_subtype">unknown</value>
-    <value name="node_nsName">project.bankdadaiotest.documenttypes:docCreatedFromIO</value>
+    <value name="node_nsName">project.bankdadaiotest.documenttypes:docCreatedFromDesigner</value>
     <value name="node_pkg">BankDadaIOTestProject</value>
     <value name="node_comment"></value>
-    <record name="node_hints" javaclass="com.wm.util.Values">
-      <record name="revisionData" javaclass="com.wm.util.Values">
-        <value name="createdBy">Maruthi.Srikanth.Akella@ibm.com</value>
-        <value name="createdByUserId">aed7d1aaeb974a9eb1f59102ea2ac902</value>
-        <number name="createdDate" type="Long">1790241819020</number>
-        <value name="lastModifiedBy">Maruthi.Srikanth.Akella@ibm.com</value>
-        <value name="lastModifiedByUserId">aed7d1aaeb974a9eb1f59102ea2ac902</value>
-        <number name="lastModifiedDate" type="Long">1790246139826</number>
-      </record>
-      <Boolean name="wMIODocTypeReplica">true</Boolean>
-    </record>
     <value name="is_public">false</value>
     <value name="displayName"></value>
     <value name="favorite"></value>
@@ -33,26 +22,6 @@
     <value name="is_global">false</value>
     <array name="rec_fields" type="record" depth="1">
       <record javaclass="com.wm.util.Values">
-        <value name="node_type">field</value>
-        <value name="node_subtype">unknown</value>
-        <value name="node_comment"></value>
-        <record name="node_hints" javaclass="com.wm.util.Values">
-          <value name="field_largerEditor">false</value>
-          <value name="field_password">false</value>
-          <value name="field_usereditable">false</value>
-        </record>
-        <value name="is_public">false</value>
-        <value name="field_name">docId</value>
-        <value name="field_type">string</value>
-        <value name="field_dim">0</value>
-        <value name="field_opt">true</value>
-        <array name="field_options" type="value" depth="1">
-        </array>
-        <value name="nillable">true</value>
-        <value name="form_qualified">false</value>
-        <value name="is_global">false</value>
-      </record>
-      <record javaclass="com.wm.util.Values">
         <value name="node_type">record</value>
         <value name="node_subtype">unknown</value>
         <value name="node_comment"></value>
@@ -62,7 +31,7 @@
           <value name="field_password">false</value>
         </record>
         <value name="is_public">false</value>
-        <value name="field_name">docTag1</value>
+        <value name="field_name">docTag</value>
         <value name="field_type">string</value>
         <value name="field_dim">0</value>
         <array name="field_options" type="value" depth="1">
