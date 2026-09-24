@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/sagmaak
   gitUsername: sagmaak
   gitBranch: main
+services:
+- serviceName: project.bankdadaiotest.integrations:serviceCreatedFromIO
+  packages:
+  - name: BankDadaIOTestProject
+    version: "1.0"
