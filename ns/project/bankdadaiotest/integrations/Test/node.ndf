@@ -126,4 +126,10 @@
   <value name="modifiable">true</value>
   <value name="is_public">false</value>
   <value name="is_visible">true</value>
-</Values>
+<record name="node_hints" javaclass="com.wm.util.Values">
+  <value name="createdBy">Maruthi.Srikanth.Akella@ibm.com</value>
+  <value name="createdDate">1790241904641</value>
+  <value name="lastModifiedDate">1790241904641</value>
+  <value name="displayNamet>Test</value>
+  <value name="description"></value>
+</record></Values>
