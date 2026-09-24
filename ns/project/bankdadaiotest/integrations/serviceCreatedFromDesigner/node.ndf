@@ -118,4 +118,11 @@
   <null name="originURI"/>
   <value name="modifiable">true</value>
   <value name="is_public">false</value>
+  <record name="node_hints" javaclass="com.wm.util.Values">
+    <value name="createdBy">Maruthi.Srikanth.Akella@ibm.com</value>
+    <value name="createdDate">1790258606880</value>
+    <value name="lastModifiedDate">1790258606880</value>
+    <value name="displayName">serviceCreatedFromDesigner</value>
+    <value name="description"></value>
+  </record>
 </Values>
