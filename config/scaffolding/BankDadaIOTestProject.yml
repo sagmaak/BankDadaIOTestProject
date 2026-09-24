@@ -12,3 +12,7 @@ services:
   packages:
   - name: BankDadaIOTestProject
     version: "1.0"
+- serviceName: pub.date:currentNanoTime
+  packages:
+  - name: WmPublic
+    version: 12.1.0.0.1032
